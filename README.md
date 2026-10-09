@@ -1,8 +1,6 @@
 <div align="center">
   <!-- Top Profile Image (Auto-fetches your GitHub Avatar) -->
-  <a href="https://github.com/justin-aran">
-    <img src="https://github.com/justin-aran.png" width="140" height="140" style="border-radius: 50%; margin-bottom: 15px;" alt="Justin Jhon Aran Profile" />
-  </a>
+  
 
   # Hi 👋 I'm Justin Jhon Aran
 
@@ -18,8 +16,8 @@
 > ```javascript
 > const justin = {
 >   role: "BS Information Technology Undergraduate",
->   passions: ["Software Engineering", "System Architecture", "Community Building"],
->   affiliations: "PUP CCIS Student Council Secretariat",
+>   passions: ["Web Development", "System Architecture", "Community Building"],
+>   affiliations: "PUP CCIS Student Council",
 >   openTo: ["Tech Collaborations", "Leadership Roles", "Creative Design"],
 >   greet: function() {
 >     return "Let's innovate and build something amazing together!";
