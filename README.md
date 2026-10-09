@@ -57,8 +57,3 @@
 </div>
 
 <br>
-
-<!-- I updated the graph API to a more stable version and matched the aesthetic -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justin-aran&bg_color=0D1117&color=36BCF7&line=9F7AEA&point=FFFFFF&hide_border=true&theme=tokyo-night" alt="Contribution Graph" width="100%" />
-</div>
