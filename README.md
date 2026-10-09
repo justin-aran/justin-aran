@@ -2,7 +2,7 @@
   <!-- Top Profile Image (Auto-fetches your GitHub Avatar) -->
   
 
-  # Hi 👋 I'm Justin Jhon Aran
+  # Kumusta! I'm Justin Jhon Aran 🫶
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=Software+Engineering+%26+Architecture;Data+Communications+%26+Networking;Multimedia+Production+%26+Design;PUP+CCIS+Student+Council+Secretariat" alt="Typing SVG" />
