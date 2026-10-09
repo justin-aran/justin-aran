@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Justin Jhon Trio Aran
+# Hi 👋 I'm Justin Jhon Aran
 
 **BS Information Technology Undergraduate**
 
@@ -31,11 +31,11 @@
 ### 📊 GitHub Analytics
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustinJhonTrioAran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justin-aran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 📈 Contribution Graph
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustinJhonTrioAran&bg_color=0D1117&color=36BCF7&line=9F7AEA&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justin-aran&bg_color=0D1117&color=36BCF7&line=9F7AEA&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
 </div>
