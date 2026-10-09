@@ -1,12 +1,31 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Justin%20Jhon%20Aran&fontSize=45&fontColor=36BCF7&animation=fadeIn&fontAlignY=55" alt="Header" />
+  <!-- Top Profile Image (Auto-fetches your GitHub Avatar) -->
+  <a href="https://github.com/justin-aran">
+    <img src="https://github.com/justin-aran.png" width="140" height="140" style="border-radius: 50%; margin-bottom: 15px;" alt="Justin Jhon Aran Profile" />
+  </a>
 
-  **BS Information Technology Undergraduate • Tech & Community Builder**
+  # Hi 👋 I'm Justin Jhon Aran
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=Software+Engineering+%26+Architecture;Data+Communications+%26+Networking;Multimedia+Production+%26+Design;PUP+CCIS+Student+Council+Secretariat" alt="Typing SVG" />
   </a>
 </div>
+
+<br>
+
+<!-- IDE Interface Effect -->
+> 🔴 🟡 🟢 
+> ```javascript
+> const justin = {
+>   role: "BS Information Technology Undergraduate",
+>   passions: ["Software Engineering", "System Architecture", "Community Building"],
+>   affiliations: "PUP CCIS Student Council Secretariat",
+>   openTo: ["Tech Collaborations", "Leadership Roles", "Creative Design"],
+>   greet: function() {
+>     return "Let's innovate and build something amazing together!";
+>   }
+> };
+> ```
 
 ---
 
@@ -55,5 +74,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=justin-aran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=justin-aran&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakNum=FFFFFF" alt="GitHub Streak" width="48%" />
 </div>
-
-<br>
